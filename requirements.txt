@@ -4,4 +4,4 @@ scikit-learn
 pandas
 seaborn
 hyperopt
-xgboost
+xgboost==1.7.5
